@@ -2,3 +2,4 @@
 
 + AWS CloudFront
 + AWS Lambda
++ AWS S3
